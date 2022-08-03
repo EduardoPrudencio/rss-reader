@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <omny:organizationId>42233656-1562-49af-98d5-acd100df7932</omny:organizationId>
+    <omny:programId>a3504d75-e95a-41c5-8dda-aced013a0cb9</omny:programId>
+    <omny:networkId>e24a46ac-726c-436f-88fc-acd2014b6b73</omny:networkId>
+    <language>pt-BR</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.omnycontent.com/d/playlist/42233656-1562-49af-98d5-acd100df7932/a3504d75-e95a-41c5-8dda-aced013a0cb9/343561ea-888c-4641-bd55-aced013a0cd5/podcast.rss"/>
+    <atom:link rel="first" type="application/rss+xml" href="https://www.omnycontent.com/d/playlist/42233656-1562-49af-98d5-acd100df7932/a3504d75-e95a-41c5-8dda-aced013a0cb9/343561ea-888c-4641-bd55-aced013a0cd5/podcast.rss?page=1"/>
+    <atom:link rel="last" type="application/rss+xml" href="https://www.omnycontent.com/d/playlist/42233656-1562-49af-98d5-acd100df7932/a3504d75-e95a-41c5-8dda-aced013a0cb9/343561ea-888c-4641-bd55-aced013a0cd5/podcast.rss?page=1"/>
+    <itunes:new-feed-url>https://www.omnycontent.com/d/playlist/42233656-1562-49af-98d5-acd100df7932/a3504d75-e95a-41c5-8dda-aced013a0cb9/343561ea-888c-4641-bd55-aced013a0cd5/podcast.rss</itunes:new-feed-url>
+    <title>MotherChip - Overloadr</title>
+    <itunes:subtitle>O MotherChip traz os últimos games lançados, opiniões embasadas e nem sempre sérias sobre tudo isso e um tiquinho de carimbó</itunes:subtitle>
+    <link>https://www.spreaker.com/show/motherchip-overloadr</link>
+    <description>
+      <![CDATA[ O MotherChip traz os últimos games lançados, opiniões embasadas e nem sempre sérias sobre tudo isso e um tiquinho de carimbó ]]>
+    </description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>O MotherChip traz os últimos games lançados, opiniões embasadas e nem sempre sérias sobre tudo isso e um tiquinho de carimbó</itunes:summary>
+    <itunes:owner>
+      <itunes:name>B9</itunes:name>
+      <itunes:email>podcasts@b9.com.br</itunes:email>
+    </itunes:owner>
+    <itunes:author>Overloadr  B9</itunes:author>
+    <copyright>2022 Overloadr  B9</copyright>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:category text="Leisure">
+      <itunes:category text="Video Games"/>
+    </itunes:category>
+    <itunes:image href="https://www.omnycontent.com/d/playlist/42233656-1562-49af-98d5-acd100df7932/a3504d75-e95a-41c5-8dda-aced013a0cb9/343561ea-888c-4641-bd55-aced013a0cd5/image.jpg?t=1620489277"/>
+    <image>
+      <url>https://www.omnycontent.com/d/playlist/42233656-1562-49af-98d5-acd100df7932/a3504d75-e95a-41c5-8dda-aced013a0cb9/343561ea-888c-4641-bd55-aced013a0cd5/image.jpg?t=1620489277</url>
+      <title>MotherChip - Overloadr</title>
+      <link>https://www.spreaker.com/show/motherchip-overloadr</link>
+    </image>
+    <item>
+      <title>Notícias da Nave Mãe #173 - Problemas no remake de KOTOR, jogo do Pantera Negra, mudanças na Rockstar e mais</title>
+      <itunes:title>Notícias da Nave Mãe #173 - Problemas no remake de KOTOR, jogo do Pantera Negra, mudanças na Rockstar e mais</itunes:title>
+      <description>
+        <![CDATA[ <p data-pm-slice="0 0 []">A semana foi cheia de ocorrências no mundo dos jogos. Falamos dos problemas que a <strong>Aspyr</strong> encontrou no desenvolvimento do remake de <strong>Knights of the Olds Republic</strong> e as poucas chances do jogo ser finalizado por eles, os rumores de um jogo para um jogador do <strong>Pantera Negra</strong>, as mudanças culturais na <strong>Rockstar</strong> que deverão refletir em <strong>GTA VI</strong> e mais.<strong></strong><strong></strong></p> <p><strong>Participantes:</strong></p> <p><a href="https://twitter.com/GhostJacobs"><strong>Guilherme Jacobs</strong></a><strong><br></strong><a href="https://twitter.com/zitosilva"><strong>Heitor De Paola</strong></a></p> <p><strong>Assuntos abordados:</strong></p> <p>04:00 - Há um jogo para um jogador do Pantera Negra em desenvolvimento<br>20:00 - O remake de Knights of the Old Republic foi pausado indefinidamente<br>27:00 - Ubisoft nega o cancelamento de Roller Champions<br>33:00 - Continuação de Fenyx Rising trocará mitologia grega por temática Havaiana Polinésia<br>38:00 - O relançamento de Tactics Ogre vazou completamente<br>44:00 - Reportagem indica que a Rockstar está tendo mudanças em sua cultura interna<br>1:00:00 - PlayStation e Xbox têm queda no resultado trimestral<br>1:10:00 - Rápidas e curtas</p> <p><a href="https://discord.gg/RBRemsX"><strong>Venha fazer parte do Discord do Overloadr!</strong></a><strong></strong></p> <p>Tem perguntas que quer que sejam lidas no programa ou sugestões? Envie-as para motherchip@overloadr.com.br.</p><p><a href="https://www.overloadr.com.br/ajude" rel="payment">Apoie o Overloadr: https://www.overloadr.com.br/ajude</a></p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p> ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ <p data-pm-slice="0 0 []">A semana foi cheia de ocorrências no mundo dos jogos. Falamos dos problemas que a <strong>Aspyr</strong> encontrou no desenvolvimento do remake de <strong>Knights of the Olds Republic</strong> e as poucas chances do jogo ser finalizado por eles, os rumores de um jogo para um jogador do <strong>Pantera Negra</strong>, as mudanças culturais na <strong>Rockstar</strong> que deverão refletir em <strong>GTA VI</strong> e mais.<strong></strong><strong></strong></p> <p><strong>Participantes:</strong></p> <p><a href="https://twitter.com/GhostJacobs"><strong>Guilherme Jacobs</strong></a><strong><br></strong><a href="https://twitter.com/zitosilva"><strong>Heitor De Paola</strong></a></p> <p><strong>Assuntos abordados:</strong></p> <p>04:00 - Há um jogo para um jogador do Pantera Negra em desenvolvimento<br>20:00 - O remake de Knights of the Old Republic foi pausado indefinidamente<br>27:00 - Ubisoft nega o cancelamento de Roller Champions<br>33:00 - Continuação de Fenyx Rising trocará mitologia grega por temática Havaiana Polinésia<br>38:00 - O relançamento de Tactics Ogre vazou completamente<br>44:00 - Reportagem indica que a Rockstar está tendo mudanças em sua cultura interna<br>1:00:00 - PlayStation e Xbox têm queda no resultado trimestral<br>1:10:00 - Rápidas e curtas</p> <p><a href="https://discord.gg/RBRemsX"><strong>Venha fazer parte do Discord do Overloadr!</strong></a><strong></strong></p> <p>Tem perguntas que quer que sejam lidas no programa ou sugestões? Envie-as para motherchip@overloadr.com.br.</p><p><a href="https://www.overloadr.com.br/ajude" rel="payment">Apoie o Overloadr: https://www.overloadr.com.br/ajude</a></p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p> ]]>
+      </content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Overloadr B9</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/playlist/42233656-1562-49af-98d5-acd100df7932/a3504d75-e95a-41c5-8dda-aced013a0cb9/343561ea-888c-4641-bd55-aced013a0cd5/image.jpg?t=1620489277"/>
+      <media:content url="https://chtbl.com/track/BC6GF7//pdst.fm/e/traffic.omny.fm/d/clips/42233656-1562-49af-98d5-acd100df7932/a3504d75-e95a-41c5-8dda-aced013a0cb9/0d484a88-832a-4058-a294-aee200fa965f/audio.mp3?utm_source=Podcast=343561ea-888c-4641-bd55-aced013a0cd5" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/motherchip/not-cias-da-nave-m-e-173-problemas-no-remake-de-ko/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/playlist/42233656-1562-49af-98d5-acd100df7932/a3504d75-e95a-41c5-8dda-aced013a0cb9/343561ea-888c-4641-bd55-aced013a0cd5/image.jpg?t=1620489277" type="image/jpeg"/>
+      <guid isPermaLink="false">0d484a88-832a-4058-a294-aee200fa965f</guid>
+      <omny:clipId>0d484a88-832a-4058-a294-aee200fa965f</omny:clipId>
+      <pubDate>Sat, 30 Jul 2022 15:14:22 +0000</pubDate>
+      <itunes:duration>5382</itunes:duration>
+      <enclosure url="https://chtbl.com/track/BC6GF7//pdst.fm/e/traffic.omny.fm/d/clips/42233656-1562-49af-98d5-acd100df7932/a3504d75-e95a-41c5-8dda-aced013a0cb9/0d484a88-832a-4058-a294-aee200fa965f/audio.mp3?utm_source=Podcast=343561ea-888c-4641-bd55-aced013a0cd5" length="86154713" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/motherchip/not-cias-da-nave-m-e-173-problemas-no-remake-de-ko</link>
+    </item>
+    <item>
+      <title>MotherChip #385 - Live A Live, Endling - Extinction is Forever, equilíbrio e mais</title>
+      <itunes:title>MotherChip #385 - Live A Live, Endling - Extinction is Forever, equilíbrio e mais</itunes:title>
+      <description>
+        <![CDATA[ <p data-pm-slice="0 0 []">Após darmos um curso gratuito em formato EAD sobre marketing, falamos sobre o relançamento de <strong>Live A Live</strong>, RPG japonês de 1994 que chega pela primeira ver oficialmente ao ocidente com essa versão HD-2D. Além dele, também tivemos <strong>Endling - Extinction is Forever</strong>, jogo em que uma raposa mãe de uma ninhada lida com a devastação de seu habitat provocada pela ação humana.<strong></strong><strong></strong></p> <p><strong>Participantes:</strong></p> <p><a href="https://twitter.com/RiqueSampaio"><strong>Henrique Sampaio</strong></a><strong><br></strong><a href="https://twitter.com/caio_o_teixeira"><strong>Caio Teixeira</strong></a><strong><br></strong><a href="https://twitter.com/zitosilva"><strong>Heitor De Paola</strong></a><strong></strong></p> <p><strong>Assuntos abordados:</strong></p> <p>00:00 - Mestres do marketing<br>12:00 - Live A Live<br>42:00 - Endling - Extinction is Forever<br>1:07:00 - Teixera, Overwatch e equilíbrio em jogos</p> <p><a href="https://discord.gg/RBRemsX"><strong>Venha fazer parte do Discord do Overloadr!</strong></a><strong></strong></p><p><a href="https://www.overloadr.com.br/ajude" rel="payment">Apoie o Overloadr: https://www.overloadr.com.br/ajude</a></p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p> ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ <p data-pm-slice="0 0 []">Após darmos um curso gratuito em formato EAD sobre marketing, falamos sobre o relançamento de <strong>Live A Live</strong>, RPG japonês de 1994 que chega pela primeira ver oficialmente ao ocidente com essa versão HD-2D. Além dele, também tivemos <strong>Endling - Extinction is Forever</strong>, jogo em que uma raposa mãe de uma ninhada lida com a devastação de seu habitat provocada pela ação humana.<strong></strong><strong></strong></p> <p><strong>Participantes:</strong></p> <p><a href="https://twitter.com/RiqueSampaio"><strong>Henrique Sampaio</strong></a><strong><br></strong><a href="https://twitter.com/caio_o_teixeira"><strong>Caio Teixeira</strong></a><strong><br></strong><a href="https://twitter.com/zitosilva"><strong>Heitor De Paola</strong></a><strong></strong></p> <p><strong>Assuntos abordados:</strong></p> <p>00:00 - Mestres do marketing<br>12:00 - Live A Live<br>42:00 - Endling - Extinction is Forever<br>1:07:00 - Teixera, Overwatch e equilíbrio em jogos</p> <p><a href="https://discord.gg/RBRemsX"><strong>Venha fazer parte do Discord do Overloadr!</strong></a><strong></strong></p><p><a href="https://www.overloadr.com.br/ajude" rel="payment">Apoie o Overloadr: https://www.overloadr.com.br/ajude</a></p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p> ]]>
+      </content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Overloadr B9</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/42233656-1562-49af-98d5-acd100df7932/a3504d75-e95a-41c5-8dda-aced013a0cb9/26237f64-2841-49ad-9d59-aedf0133a6a6/image.jpg?t=1658947364"/>
+      <media:content url="https://chtbl.com/track/BC6GF7//pdst.fm/e/traffic.omny.fm/d/clips/42233656-1562-49af-98d5-acd100df7932/a3504d75-e95a-41c5-8dda-aced013a0cb9/26237f64-2841-49ad-9d59-aedf0133a6a6/audio.mp3?utm_source=Podcast=343561ea-888c-4641-bd55-aced013a0cd5" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/motherchip/motherchip-385-live-a-live-endling-extinction-is-f/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/42233656-1562-49af-98d5-acd100df7932/a3504d75-e95a-41c5-8dda-aced013a0cb9/26237f64-2841-49ad-9d59-aedf0133a6a6/image.jpg?t=1658947364" type="image/jpeg"/>
+      <guid isPermaLink="false">26237f64-2841-49ad-9d59-aedf0133a6a6</guid>
+      <omny:clipId>26237f64-2841-49ad-9d59-aedf0133a6a6</omny:clipId>
+      <pubDate>Wed, 27 Jul 2022 18:43:12 +0000</pubDate>
+      <itunes:duration>5601</itunes:duration>
+      <enclosure url="https://chtbl.com/track/BC6GF7//pdst.fm/e/traffic.omny.fm/d/clips/42233656-1562-49af-98d5-acd100df7932/a3504d75-e95a-41c5-8dda-aced013a0cb9/26237f64-2841-49ad-9d59-aedf0133a6a6/audio.mp3?utm_source=Podcast=343561ea-888c-4641-bd55-aced013a0cd5" length="89662528" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/motherchip/motherchip-385-live-a-live-endling-extinction-is-f</link>
+    </item>
+  </channel>
+</rss>

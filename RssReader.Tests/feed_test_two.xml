@@ -1,0 +1,39 @@
+﻿<rss>
+  <channel>
+    <title>UOL Tecnologia</title>
+    <link>http://tecnologia.uol.com.br/</link>
+    <description>Últimas Notícias</description>
+    <language/>
+    <category>Notícias</category>
+    <copyright/>
+    <image>
+      <title>UOL Tecnologia - Últimas Notícias</title>
+      <url>http://rss.i.uol.com.br/uol_rss.gif</url>
+      <link>http://tecnologia.uol.com.br/ultimas/</link>
+    </image>
+    <item>
+      <title>
+        <![CDATA[ Braço de criptomoedas da Robinhood é multado em US$30 mi por regulador de Nova York ]]>
+      </title>
+      <link>
+        <![CDATA[ https://www.uol.com.br/tilt/noticias/reuters/2022/08/02/braco-de-criptomoedas-da-robinhood-e-multado-em-us30-mi-por-regulador-de-nova-york.htm ]]>
+      </link>
+      <description>
+        <![CDATA[ (Reuters) - O regulador financeiro do Estado de Nova York multou o braço de criptomoedas da Robinhood Markets em 30 milhões de dólares por supostas violações das regras de combate à lavagem de dinheiro, segurança digital e proteção ao consumidor. ]]>
+      </description>
+      <pubDate>Ter, 02 Ago 2022 16:38:50 -0300</pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[ Como funciona a 'bomba-ninja' dos EUA que 'fatiou' terrorista da Al-Qaeda ]]>
+      </title>
+      <link>
+        <![CDATA[ https://www.uol.com.br/tilt/noticias/redacao/2022/08/02/a-arquitetura-por-tras-da-arma-secreta-dos-eua.htm ]]>
+      </link>
+      <description>
+        <![CDATA[ <img src='https://conteudo.imguol.com.br/c/noticias/55/2022/08/02/diagrama-do-missil-hellfire-r9x-conhecido-como-bomba-ninja-1659465873760_v2_142x100.jpg' align="left" /> No último fim de semana, as Forças Armadas dos Estados Unidos mataram o líder do grupo terrorista Al Qaeda, Ayman al-Zawahiri, em Kabul, no Afeganistão. Ele estava na varanda de um edifício no último domingo, um pouco depois que amanheceu, quando foi atingido por dois mísseis. ]]>
+      </description>
+      <pubDate>Ter, 02 Ago 2022 15:54:01 -0300</pubDate>
+    </item>
+  </channel>
+</rss>

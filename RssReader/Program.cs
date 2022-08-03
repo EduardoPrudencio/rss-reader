@@ -1,5 +1,4 @@
 ﻿using RssReader.Domain;
-using System.Drawing;
 using System.Net;
 
 namespace console
