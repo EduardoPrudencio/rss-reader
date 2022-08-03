@@ -19,7 +19,9 @@ namespace RssReader.Domain
                                   Id = item.Elements().First(i => i.Name.LocalName == "guid").Value,
                                   Content = item.Elements().First(i => i.Name.LocalName == "description").Value,
                                   Link = item.Elements().First(i => i.Name.LocalName == "link").Value,
-                                  Image = item.Elements().First(i => i.Name.LocalName == "image").FirstAttribute.Value,
+                                  Image = (item != null && item.Elements().First(i => i.Name.LocalName == "image").FirstAttribute != null) 
+                                  ? item.Elements().First(i => i.Name.LocalName == "image").FirstAttribute.Value 
+                                  : "",
                                   PublishDate = Convert.ToDateTime(item.Elements().First(i => i.Name.LocalName == "pubDate").Value)
                               };
 
